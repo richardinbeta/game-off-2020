@@ -1,0 +1,9 @@
+{
+    "twee3LanguageTools.storyformat.current": "",
+    "editor.rulers": [
+        120
+    ],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120,
+    "vim.textwidth": 120
+}

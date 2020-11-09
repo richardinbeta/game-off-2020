@@ -1,8 +1,0 @@
-:: Start
-This is the first passage in my Twine game!
-
-[[This is a link|Next Passage]]
-
-:: Next Passage
-The player just clicked here:)
-
