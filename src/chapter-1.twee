@@ -1,58 +1,68 @@
-:: Start
-You turned your head towards the window. A postal letter floated in through the window and settled on the floor. 
+:: Start 
+You turned your head towards the window. 
+A postal letter floated in through the open window and settled on the small coffee table.
 
-Being curious, you approach.
-[[Open|chp1-open-letter]]
-[[Leave it alone|chp1-leave-letter]]
+Being curious and surprised, you approach. slowly. It's not every day that a letter floats in through the window. 
+[[Open the letter|chp1-open-letter]] [[Leave it alone|chp1-leave-letter]]
 
-:: StoryTitle
-To be determined.
+:: StoryTitle 
+Saving dreamland
 
-:: StoryData
-{
-        "ifid": "1875C0AE-96F9-44DE-A43E-83A50AAB8A19"
-}
+:: StoryData 
+{ "ifid": "1875C0AE-96F9-44DE-A43E-83A50AAB8A19" }
 
-:: chp1-leave-letter
-The cat snuggles up beside you. Suddenly you feel really tired. You walk towards the bed and lie down.
+:: chp1-leave-letter 
+The cat snuggles up beside you. He is always after cuddles! Suddenly you feel really tired. You walk towards the bed and
+decide that a quick cat nap is okay. Besides, the cat fully agrees with this by jumping up onto the bed.
 
 You seem to remember the cat talking to you. But that can't be, he has only ever purrred!
 
 [[Ask him what he tried to say|chp1-ask-cat]]
 
-:: chp1-ask-cat
-Samson looks at you in disbelief! "I was trying to tell you how important it was to open the letter."
+:: chp1-ask-cat 
+Samson looks at you in disbelief. "I was trying to tell you how important it was to open the letter!
 
-You must be dreaming; is this a dream?
+You must be dreaming. Is this a dream? 
 
-"Listen, there is not much time. Open the letter."
+"Listen, there is not much time. Open the letter when you next get the chance, ok."
 
 Your eyes close before you can even yawn.
 
-[[chp1-open-letter]] 
+You wake up with the long shadows of the sun coming through the window.
 
-:: chp1-open-letter
-You pickup the letter.
+[[Open the letter like the cat said|chp1-open-letter]] 
 
-It is wrapped very [[oddly|chp1-letter-envelop]]. You just want to open it up but something causes you to pause. You turn around and notice the cat is watching you very oddly. You [[could stare|chp1-stare-at-cat]] but you're not sure that is really neccessary.
+:: chp1-open-letter 
+Walking over to the coffee table, you pickup the letter carefully.
 
-You take a picture with your phone and upload the image to a translation service. Hopefully it will be able to tell you what language it is. Even better is it will tell you what ''it'' says
+It is wrapped very [[oddly|chp1-letter-envelop]]. You just want to open it up but something causes you to pause. You
+turn around and notice the cat is watching you very oddly. You [[could stare at him|chp1-stare-at-cat]] but you're not sure
+that is really neccessary.
 
-What seems like forever, okay only 2 seconds pass. The phone beeps. There is an answer on the screen. //French// is the language. The computer could not make out the old writting except for a single phrase:''magic magnifing glass needed''.
+You take a picture with your phone and upload the image to a translation service. Hopefully it will be able to tell you
+what language it is. Even better is it will tell you what ''it'' says
 
-You pick up the enevlope again, turning it slowly. You really want to open the letter now. So you rip open the letter and look inside. [[Take out the letter|chp1-take-out-letter]] or perhaps ask the internet what a [[magic magnifying glass is|chp1-magic-magnifying-glass]].
+What seems like forever, okay only 2 seconds pass. The phone beeps. There is an answer on the screen. //French// is the
+language. The computer could not make out the old writting except for a single phrase:''magic magnifing glass needed''.
 
-:: chp1-magic-magnifying-glass
+You pick up the enevlope again, turning it slowly. You really want to open the letter now. So you rip open the letter
+and look inside. [[Take out the piece of paper|chp1-take-out-letter]] or perhaps ask the internet what a [[magic magnifying
+glass is|chp1-magic-magnifying-glass]].
+
+:: chp1-magic-magnifying-glass 
 Double-click this passage to edit it.
 
-:: chp1-stare-at-cat
-Sometimes that cat spookys you. With his large green eyes that never seem to blink. You should know, you have battled him so many times in the past to see who could win at staring. No suprise he always wins.
+:: chp1-stare-at-cat 
+Sometimes that cat spookys you. With his large green eyes that never seem to blink. You should
+know, you have battled him so many times in the past to see who could win at staring. No suprise he always wins.
 
-You figure it will make you feel better if you start at him anyway. With a squint and making a silly face you start at Samson. He takes up the challenge!
+You figure it will make you feel better if you start at him anyway. With a squint and making a silly face you start at
+Samson. He takes up the challenge!
 
 The feeling of needing to blink is so strong now. But you think you can win this time, just a little longer. 
 
-A knock on the window distracts Samson, he jumps down from the counter and walks towards the window. He jumps up and peers out the window. 
+A knock on the window distracts Samson, he jumps down from the counter and walks towards the window. He jumps up and
+peers out the window. 
 
 So, does that mean you win? Just as you're about to bask in your glory Samson looks back at you with a grin.
 
@@ -61,11 +71,12 @@ So, does that mean you win? Just as you're about to bask in your glory Samson lo
 :: chp1-take-out-letter 
 Double-click this passage to edit it.
 
-:: chp1-letter-envelop
-<img src="/Users/burcher/GameDev/GameOff-2020-Game-Jame/graphics/old-envelop-cc.png" width="500" height="300" alt="Vintage letter envelope">
+:: chp1-letter-envelop 
+<img src="/Users/burcher/GameDev/GameOff-2020-Game-Jame/graphics/old-envelop-cc.png" width="500"
+height="300" alt="Vintage letter envelope">
 
-
-It reminds you of that show with no color....the one with the helper dog. You ponder on it for a while, well maybe a second. Oh well, it doesn't matter. The brown paper is thick. There is string in place of tape.
+It reminds you of that show with no color....the one with the helper dog. You ponder on it for a while, well maybe a
+second. Oh well, it doesn't matter. The brown paper is thick. There is string in place of tape.
 
 You notice the stamps are not in English. How odd!
 
