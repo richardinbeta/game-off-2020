@@ -27,7 +27,6 @@ that can't be. Can cats really talk?
 
 
 :: chp1-ask-cat [dream]
-
 '' ADD E ART showing cat talking''
 
 Samson looks at you in disbelief with a tilted head. "I was trying to tell you not to close your eyes. Midnight Moon
@@ -89,7 +88,6 @@ Alice holding a magnifying glass. Ok so Google got that right. But how does that
 
 
 :: chp1-stare-at-cat [dream]
-
 ''ADD E ART showing the cat''
 
 Sometimes that cat spookys you. At Halloween that is totally fun but not right now. Those large green eyes that never
@@ -118,12 +116,12 @@ You look at the bottom of the letter, there is something written in pencil. You 
 
 You're not sure what to think. This is a strange riddle and everyone knows you like riddles. Did mom do this? 
 
-[[Ask mom|chp1-ask-mom]]
-[[Write this down in journal||chp1-write-first-letter-ideas-journal]]
+Well, better write this down so you don't forget in your journal. 
+
+<<timed 15s>><<goto chp1-leaving-the-dream>><</timed>>
 
 
 :: chp1-describe-letter-envelop [dream]
-
 ''ADD E ART showing outside of letter''
 
 Where is this even from? You've on;y ever seen white envelops and brown packages come in the mail.
@@ -146,7 +144,6 @@ are ''waking up''.
 
 
 :: chp1-waking-up-first-time [awake letter]
-
 '' ADD E ART OF ROOM''
 
 The light is bright in the room as you open your eyes.
@@ -159,13 +156,50 @@ lying on the floor. That's not where you out it.
 You jump out of bed, grab it and open it to the last page. There is a picture of a letter with the words //magic
 magnifying glass//, //the cat talks but only in dreams//.
 
-<<timed 15s>><<goto chp1-awake-talk-to-cat>><</timed>>
+[[Tell mom|chp1-tell-mom]]
+[[Talk to the cat|chp1-talk-to-cat]]
 
 
-:: chp1-ask-mom [awake]
+:: chp1-tell-mom [awake]
+Mom listens and smiles. When you are done telling her your dream and what you found in the journal, she laughs and says
+she didn't write in your journal. You ask her if cats can talk? She gives you a big hug and says that would be really
+great if they could, but no they can not.
+
+The puzzle is growing. The more you think about and the clues in your journal the more you're sure someone is trying to
+tell you something important. 
+
+But what and why?
 
 
-:: chp1-write-first-letter-ideas-journal [dreaming]
+:: chp1-write-first-letter-ideas-journal [dream]
+''Should be in dream land''
+
+You have so many questions but the first is what's wrong with Google? Maybe you'll ask mom to help write an email about
+this. In the meantime you, want to write down a few ideas so you don't forget them.
+
+You write down //magic magnifying glass// and //the cat talks but only in dreams//. That should be enough to help you
+remember.
+
+"If mom saw you chewing on the end of the pencil she would be mad with you" said the cat. You jump and look arond for
+the voice. "I`m at your feet" laughs the cat.
+
+"There is much I need to tell you but..." as the cats tail starts to puff up. "Dreamland is in trouble, the letter has
+chosen you to help. Please, please say yes." pleads the cat.
+
+You're not sure what to make of this. But a talking cat, this is the best!
+
+"Please listen" meowed the cat. "I can only talk to you when you dream. Everything we talk about or you see will
+disappear when you wake up."
+"But perhaps, just perhaps, writing them down in your journal will survive. I certainly hope so".
+
+You catch yourself staring at the cat. How rude. So many questions to ask but which ones? 
+
+[[Ask the cat why he can talk.|chp1-why-can-cat-talk]]
+[[What is Dreamland?|chp1-dreamland-back-story]]
+[[Why would I forget?|chp1-why-things-in-dreams-disappear]]
+[[Is my journal magical?|chp1-is-journal-magical]]
+
+
 
 
 :: chp1-awake-talk-to-cat [awake]
