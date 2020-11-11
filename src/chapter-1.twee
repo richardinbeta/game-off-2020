@@ -1,4 +1,4 @@
-:: Start 
+:: Start [dream]
 You hear ruffling by the window. A letter floats through the open window and settles on the coffee table.
 
 Well isn't that interesting. You approach slowly. The last time something came through the window, the room got covered
@@ -10,10 +10,12 @@ There's no way there could be glitter in the letter? What's the worst that could
 :: StoryTitle 
 Saving Dreamland
 
+
 :: StoryData 
 { "ifid": "1875C0AE-96F9-44DE-A43E-83A50AAB8A19" }
 
-:: chp1-leave-letter 
+
+:: chp1-leave-letter [dream] 
 The cat snuggles up beside you meowing softly. Such a cuddle monster! You feel really tired. 
 You walk towards the bed and decide that a quick cat nap is okay. Besides, the cat fully agrees with this by jumping up
 onto the bed.
@@ -23,7 +25,11 @@ that can't be. Can cats really talk?
 
 [[Ask politely what was said?|chp1-ask-cat]]
 
-:: chp1-ask-cat 
+
+:: chp1-ask-cat [dream]
+
+'' ADD E ART showing cat talking''
+
 Samson looks at you in disbelief with a tilted head. "I was trying to tell you not to close your eyes. Midnight Moon
 will steal your dreams. Dreamland needs you. Please open the letter!"
 
@@ -41,7 +47,7 @@ to bed.
 <<timed 15s>><<goto chp1-left-letter-wake-up>><</timed>>
 
 
-:: chp1-left-letter-wake-up
+:: chp1-left-letter-wake-up [awake]
 With a big stretch, you open your eyes. The wall clock says it's 7:30am. The curtains cover the window. The cat is
 snuggled up at the bottom of the bed. You remember having some kind of dream but it's blurry.
 
@@ -54,8 +60,8 @@ The cat jumps up and claims the end of the bed. Both of you drift off to sleep a
 <<timed 15s>><<goto Start>><</timed>>
 
 
-:: chp1-open-letter 
-You walk over to the coffee table. Looking down at the letter it is wrapped very [[oddly|chp1-letter-envelop]]. You just
+:: chp1-open-letter [dream]
+You walk over to the coffee table. Looking down at the letter it is wrapped very [[oddly|chp1-describe-letter-envelop]]. You just
 want to open it up but something causes you to pause. Turning around, there is the cat wwatching you very closely.
 Those large green eyes staring straight through you. Well, you [[could stare back|chp1-stare-at-cat]] but you're not
 sure that is really neccessary.
@@ -73,7 +79,7 @@ and look inside. [[Take out the piece of paper|chp1-take-out-letter]] or perhaps
 glass is|chp1-magic-magnifying-glass]].
 
 
-:: chp1-magic-magnifying-glass 
+:: chp1-magic-magnifying-glass [dream] 
 A //magic magnifying glass// is a fairy tale item used by Alice in Wonderland. See page 237 of the book.
 
 You grab the book off of your shelf (mom has been reading it to you at night). Quickly you flip to the page. There is
@@ -82,7 +88,10 @@ Alice holding a magnifying glass. Ok so Google got that right. But how does that
 <<timed 15s>><<goto chp1-take-out-letter>><</timed>>
 
 
-:: chp1-stare-at-cat 
+:: chp1-stare-at-cat [dream]
+
+''ADD E ART showing the cat''
+
 Sometimes that cat spookys you. At Halloween that is totally fun but not right now. Those large green eyes that never
 seem to blink. You should know, you have battled so many times in the past to see who could win at staring. No
 suprise the cat always wins.
@@ -98,16 +107,65 @@ So, does that mean you win? Just as you're about to bask in your glory but the c
 
 <<timed 15s>><<goto chp1-open-letter>><</timed>>
 
-:: chp1-take-out-letter 
-Double-click this passage to edit it.
 
-:: chp1-letter-envelop 
-<img src="/Users/burcher/GameDev/GameOff-2020-Game-Jame/graphics/old-envelop-cc.png" width="500"
-height="300" alt="Vintage letter envelope">
+:: chp1-take-out-letter [dream]
+The letter is a single piece of yellowish paper. Some of the words are smudged. Looking closer, the words look like
+those on the outside of the envelope, //French//. There is no way Google will understand these you sigh. 
 
-It reminds you of that show with no color....the one with the helper dog. You ponder on it for a while, well maybe a
-second. Oh well, it doesn't matter. The brown paper is thick. There is string in place of tape.
+You look at the bottom of the letter, there is something written in pencil. You start to read it....
 
-You notice the stamps are not in English. How odd!
+//Find the magic magnifying glass in your dreams.//
 
-[[Open letter|chp1-open-letter]] 
+You're not sure what to think. This is a strange riddle and everyone knows you like riddles. Did mom do this? 
+
+[[Ask mom|chp1-ask-mom]]
+[[Write this down in journal||chp1-write-first-letter-ideas-journal]]
+
+
+:: chp1-describe-letter-envelop [dream]
+
+''ADD E ART showing outside of letter''
+
+Where is this even from? You've on;y ever seen white envelops and brown packages come in the mail.
+
+Oh well, it doesn't matter. The evenlope paer is brown with stains. It feels very thick. String is wrapped around it.
+You notice the two large stamps are not in English. Both of them contain an image of the Effel Tower.
+
+[[Lets open and see what's inside|chp1-open-letter]] 
+
+
+:: chp1-leaving-the-dream [dream]
+As you look at the stamps on the letter, the images start to move. You begin to see glimpses of a forest with a large
+balloon sailing above it. Next, the moon appears but it looks very different than how you remember it. The last image is
+water in a well. The stamps look like they did as you rub your eyes. What is happening? 
+
+But before you can think any longer, the color in the room starts to fade. You can not see the wall anymore. Oh no, you
+are ''waking up''.
+
+<<timed 15s>><<goto chp1-waking-up-fist-time>><</timed>>
+
+
+:: chp1-waking-up-first-time [awake letter]
+
+'' ADD E ART OF ROOM''
+
+The light is bright in the room as you open your eyes.
+
+You look at the coffee table, but there is no letter on it. The cat is curled up at the bottom of the bed.
+
+That was strange you think. Through it was a really nice dream. Something catches your eyes, your trusty journal is
+lying on the floor. That's not where you out it.
+
+You jump out of bed, grab it and open it to the last page. There is a picture of a letter with the words //magic
+magnifying glass//, //the cat talks but only in dreams//.
+
+<<timed 15s>><<goto chp1-awake-talk-to-cat>><</timed>>
+
+
+:: chp1-ask-mom [awake]
+
+
+:: chp1-write-first-letter-ideas-journal [dreaming]
+
+
+:: chp1-awake-talk-to-cat [awake]
