@@ -43,7 +43,7 @@ and warm. You close your eyes and everything goes dark.
 You wake up with the long shadows of the sun coming through the window. The evening star is out and the birds have gone
 to bed.
 
-<<timed 15s>><<goto [[chp1-left-letter-wake-up]]>><</timed>>
+[[Continue|chp1-left-letter-wake-up]]
 
 
 :: chp1-left-letter-wake-up [awake]
@@ -56,7 +56,7 @@ beach today!
 After a wonderfull BBQ with your family and a hot bath. You get dressed into your favorite pj's and snuggle into bed.
 The cat jumps up and claims the end of the bed. Both of you drift off to sleep as the moon glows through your window.
 
-<<timed 15s>><<goto Start>><</timed>>
+[[Contine|Start]]
 
 
 :: chp1-open-letter [dream]
@@ -84,7 +84,7 @@ A //magic magnifying glass// is a fairy tale item used by Alice in Wonderland. S
 You grab the book off of your shelf (mom has been reading it to you at night). Quickly you flip to the page. There is
 Alice holding a magnifying glass. Ok so Google got that right. But how does that help me?
 
-<<timed 15s>><<goto chp1-take-out-letter>><</timed>>
+[[Contine|chp1-take-out-letter]]
 
 
 :: chp1-stare-at-cat [dream]
@@ -103,7 +103,7 @@ tail flickering from side to side.
 
 So, does that mean you win? Just as you're about to bask in your glory but the cat looks back at you with a grin.
 
-<<timed 15s>><<goto chp1-open-letter>><</timed>>
+[[Contine|chp1-open-letter]]
 
 
 :: chp1-take-out-letter [dream]
@@ -118,7 +118,7 @@ You're not sure what to think. This is a strange riddle and everyone knows you l
 
 Well, better write this down so you don't forget in your journal. 
 
-<<timed 15s>><<goto chp1-leaving-the-dream>><</timed>>
+[[Continue|chp1-leaving-the-dream]]
 
 
 :: chp1-describe-letter-envelop [dream]
@@ -140,7 +140,7 @@ water in a well. The stamps look like they did as you rub your eyes. What is hap
 But before you can think any longer, the color in the room starts to fade. You can not see the wall anymore. Oh no, you
 are ''waking up''.
 
-<<timed 15s>><<goto chp1-waking-up-fist-time>><</timed>>
+[[Contine|chp1-waking-up-fist-time]]
 
 
 :: chp1-waking-up-first-time [awake letter]
