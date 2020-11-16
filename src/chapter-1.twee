@@ -1,4 +1,4 @@
-:: Start [dream]
+ Start [dream]
 You hear ruffling by the window. A letter floats through the open window and settles on the coffee table.
 
 Well isn't that interesting. You approach slowly. The last time something came through the window, the room got covered
@@ -43,7 +43,7 @@ and warm. You close your eyes and everything goes dark.
 You wake up with the long shadows of the sun coming through the window. The evening star is out and the birds have gone
 to bed.
 
-<<timed 15s>><<goto chp1-left-letter-wake-up>><</timed>>
+<<timed 15s>><<goto [[chp1-left-letter-wake-up]]>><</timed>>
 
 
 :: chp1-left-letter-wake-up [awake]
