@@ -5,7 +5,9 @@ Well isn't that interesting. You approach slowly. The last time something came t
 in glitter!
 
 There's no way there could be glitter in the letter? What's the worst that could happen; mmm maybe a paper cut?
-[[Open the letter|chp1-open-letter]] [[Leave it alone|chp1-leave-letter]]
+[[Open the letter|chp1-open-letter]] 
+[[Leave it alone|chp1-leave-letter]]
+
 
 :: StoryTitle 
 Saving Dreamland
@@ -205,13 +207,22 @@ You catch yourself staring at the cat. How rude. So many questions to ask but wh
 :: chp1-talk-to-cat [awake]
 You walk over to the cat slowly. Normally you would just rush over and pick him up, but today your not sure what to do.
 As you get closer, the cats tail flickers. With a long stetch and yawn, the cat gives you one more look before leaping
-off the bed and out the door. You think that was odd but cats do odd things. Laughting out loud, you think that youre
-being silly. Cats dont talk. 
+off the bed and out the door. You think that was odd but cats do odd things. Laughting out loud, you think that you`re
+being silly. Cats don`t talk. 
 
-Walking towards the door, youre glad you didnt try to speak to the cat. If your mom heard you, she would think you
-needed more sleep!
+You call after the cat, "Please come back in. I need to ask talk to you please!"
+Two little eyes peer around the corner of the door, "Yes" says the cat.
+You start to talk right away, "why can I talk to you? what where you saying in my dreams the other night?".
 
-[[#link]]
+The cat sites down. "To sum it up, there is danger going on in the dream world. You've been choosen to save Dreamland"
+yawns the cat. "Almost forgot to mention, please write me notes instead of talking. Safer for me and you" winked the
+cat. With that the cat struts out of the room.
+
+That went better than you thought it would...the cat talked back. You laugh out loud just saying that to yourself.
+
+You walk over to the window and jump up onto the cushions. There is a lot you need to think about.
+
+[[]]
 
 
 :: chp1-why-can-cat-talk [dream]
