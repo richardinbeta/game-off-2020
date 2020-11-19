@@ -222,34 +222,37 @@ That went better than you thought it would...the cat talked back. You laugh out 
 
 You walk over to the window and jump up onto the cushions. There is a lot you need to think about.
 
-[[]]
+After thinking for a bit, you want to ask the cat more questions. [[Talk to the cat again|chp1-why-can-cat-talk]]
 
 
-:: chp1-why-can-cat-talk [dream]
-The cat explains that this is a power granted to cats in dreams by the ruler of Dreamland. Her highness Julika. 
+:: chp1-why-can-cat-talk [awake]
+You decide to ask the questions on paper and drop it off in front of the cat stand.
 
-You keep hearing of Dreamland. So you ask the cat for to tell you more!
+A few hours later, the letter is returned to your bedroom with lots of red marker on it. The cat explains that he can
+talk, read and write as there was a magically power granted to cats in dreams by the ruler of Dreamland. Her highness
+Julika.
 
-"It is a place that is not to different than here, except it is very old. Plus no cars. The rulers job is to ensure
+You keep hearing of Dreamland. So you ask the cat for to tell you more. But you see the wise cat has thought of this too
+and written to explain. "It is a place that is not to different than here, except it is very old. Plus no cars. The rulers job is to ensure
 dreams are not distrubed, that magic and happeniess is available for dreamers to grasp hold of." says the cat.
 
-You ask how does one get there?
+At the bottom of the letter, in big letters is ''How to get to Dreamland'':
 
 "Well, if you are not a cat then there is only way. You must have a ticket for the Dream Carrier. And before you ask, I
 can not say more. There are many things you will have to discover for yourself." yawned the cat.
-
 "But be warned, not all is happy these days around Dreamland. The evil Midnight Moon has returned. She will stop at
-nothing to become the ruler." 
+nothing to become the ruler." "My advice to you, is to write everything down in your journal. Please do give me some
+extra food to:)".
 
-"My advice to you, is to write everything down in your journal. Please do give me some extra food to:)" smiled the cat.
+You grab paper from the art cupboard. There is so much you want to ask the cat now!
+[[What is the Dreamland back story?|chp1-dreamland-back-story]] 
+[[Why do things disappear in dreams?|chp1-why-things-in-dreams-disappear]] 
+[[Do I have a magical journal?|chp1-is-journal-magical]]
 
-You sense the dream is coming to an end. You have felt this before. The odd feeling that begins to come over you.
 
-:: chp1-dreamland-back-story [dream]
-:: chp1-why-things-in-dreams-disappear [dream]
-:: chp1-is-journal-magical [dream]
-:: chp1-not-dreaming-for-several-days [awake]
+:: chp1-dreamland-back-story [awake]
+:: chp1-why-things-in-dreams-disappear [awake]
+:: chp1-is-journal-magical [awake]
 :: chp1-discover-next-chapter-items-goal [dream]
 ''ADD E ART scene with forest, wishing well and balloon''
 
-After several days not dreaming, you finally have one!
