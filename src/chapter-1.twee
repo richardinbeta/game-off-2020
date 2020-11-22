@@ -158,21 +158,7 @@ lying on the floor. That's not where you out it.
 You jump out of bed, grab it and open it to the last page. There is a picture of a letter with the words //magic
 magnifying glass//, //the cat talks but only in dreams//.
 
-[[Tell mom|chp1-tell-mom]]
 [[Talk to the cat|chp1-talk-to-cat]]
-
-
-:: chp1-tell-mom [awake]
-Mom listens and smiles. When you are done telling her your dream and what you found in the journal, she laughs and says
-she didn't write in your journal. You ask her if cats can talk? She gives you a big hug and says that would be really
-great if they could, but no they can not.
-
-The puzzle is growing. The more you think about and the clues in your journal the more you're sure someone is trying to
-tell you something important. 
-
-But what and why?
-
-[[#link]]
 
 
 :: chp1-write-first-letter-ideas-journal [dream]
@@ -251,8 +237,41 @@ You grab paper from the art cupboard. There is so much you want to ask the cat n
 
 
 :: chp1-dreamland-back-story [awake]
+''ADD E ART...let her define what dreamland looks like''
+
+"Dreamland has existed before, well before me and you. That much is certain" wrote the cat. "For those who have been
+there it is a magical place unlike anyother. Not many non-cats get the chance to go there."
+
+You remember the cat saying you where chosen to save the place. Well that seems pretty cool! There are so many more
+questions to ask but your wrist is getting tired from all this writting. Besides, it is almost bathtime anyway. One more
+night is not going to change the world right?
+
+[[Lets jump into the bath and get to bed||chp1-discover-next-chapter-items-goals]]
+
 :: chp1-why-things-in-dreams-disappear [awake]
+With a new piece of paper, you scribble down the question //why do things in dreams disappear?//. After folding the
+paper and leaving a few extra snacks you leave the letter beside the cat stand. It seems like hours but the cat slides
+the letter back under the door while your in the bathroom! 
+"No one really knows why things disappear from your dreams when you wake up. What has ''changed'' is more of the dream
+is absent when you wake." scribbled the cat. "Some dark magic has been rumored to be at work, for what purpose that is a
+mystery to even the teachers."
+
+Well that explains why you haven't really remembered much of your dreams but that kinda seems like forever when you
+think about it. 
+
+You think the cat wouldn't mind one more question on this, provided you give him some bacon. Written in purple, the
+letter is left at the cat stand again. This time, it is not until morning that you get it back.
+"The only way to remember more of the dream, it is rumored is to have a glass of warm milk before bed." wrote the cat.
+"There is one more way to [[remember more of the dream||chp1-is-journal-magical]] and that is to use your journal".
+
+
 :: chp1-is-journal-magical [awake]
+So the cat says you should write everything down in the journal when you sleep? Wow, I don't think I've ever written
+anything down in my sleep! Can you even do that?
+
+Out comes another piece of paper, you wonder what color to use this time? Pink?...sure. 
+
+
 :: chp1-discover-next-chapter-items-goal [dream]
 ''ADD E ART scene with forest, wishing well and balloon''
 
