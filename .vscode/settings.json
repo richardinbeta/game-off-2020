@@ -1,0 +1,11 @@
+{
+    "twee3LanguageTools.storyformat.current": "",
+    "editor.rulers": [
+        120
+    ],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120,
+    "vim.textwidth": 120,
+    "twee3LanguageTools.passage.list": true,
+    "twee3LanguageTools.passage.group": "File"
+}
