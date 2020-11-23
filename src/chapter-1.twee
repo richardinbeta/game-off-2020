@@ -75,9 +75,9 @@ beep ringer. Maybe you'll change it later to something kooler. There is an answe
 language. Google could only figure out a single phrase:''magic magnifing glass needed''. Maybe by next week Google will
 learn how to read old hand writing. But you can not wait that long!
 
-You pick up the enevlope again, turning it over slowly. You really want to open the letter now. So you rip open the letter
-and look inside. [[Take out the piece of paper|chp1-take-out-letter]] or perhaps ask the internet what a [[magic magnifying
-glass is|chp1-magic-magnifying-glass]].
+You pick up the enevlope again, turning it over slowly. You really want to open the letter now. 
+So you rip open the letter and look inside. [[Take out the piece of paper|chp1-take-out-letter]] or perhaps ask the 
+internet what a [[magic magnifying glass is|chp1-magic-magnifying-glass]].
 
 
 :: chp1-magic-magnifying-glass [dream] 
@@ -90,7 +90,6 @@ Alice holding a magnifying glass. Ok so Google got that right. But how does that
 
 
 :: chp1-stare-at-cat [dream]
-''ADD E ART showing the cat''
 
 Sometimes that cat spookys you. At Halloween that is totally fun but not right now. Those large green eyes that never
 seem to blink. You should know, you have battled so many times in the past to see who could win at staring. No
@@ -146,7 +145,7 @@ are ''waking up''.
 
 
 :: chp1-waking-up-first-time [awake letter]
-'' ADD E ART OF ROOM''
+<img src="media/img/elie-in-her-room.jpg" width="55%">
 
 The light is bright in the room as you open your eyes.
 
@@ -162,7 +161,7 @@ magnifying glass//, //the cat talks but only in dreams//.
 
 
 :: chp1-write-first-letter-ideas-journal [dream]
-''ADD E ART picture of journal''
+<img src="media/img/elie-writing-in-journal.jpg" width="55%">
 
 You have so many questions but the first is what's wrong with Google? Maybe you'll ask mom to help write an email about
 this. In the meantime you, want to write down a few ideas so you don't forget them.
@@ -237,7 +236,7 @@ You grab paper from the art cupboard. There is so much you want to ask the cat n
 
 
 :: chp1-dreamland-back-story [awake]
-''ADD E ART...let her define what dreamland looks like''
+<img src="media/img/dreamland-overview.jpg" width="55%">
 
 "Dreamland has existed before, well before me and you. That much is certain" wrote the cat. "For those who have been
 there it is a magical place unlike anyother. Not many non-cats get the chance to go there."
@@ -246,7 +245,7 @@ You remember the cat saying you where chosen to save the place. Well that seems 
 questions to ask but your wrist is getting tired from all this writting. Besides, it is almost bathtime anyway. One more
 night is not going to change the world right?
 
-[[Lets jump into the bath and get to bed||chp1-discover-next-chapter-items-goals]]
+[[Lets jump into the bath and get to bed|chp1-discover-next-chapter-items-goals]]
 
 :: chp1-why-things-in-dreams-disappear [awake]
 With a new piece of paper, you scribble down the question //why do things in dreams disappear?//. After folding the
@@ -281,11 +280,11 @@ please, please be true//.
 You tell your mother that you want to go to bed early tonight, she asks if your feeling sick but you tell her you just
 need to catch up on some sleep.
 
-[[Put on your pyjamas and go to bed||chp1-discover-next-chapter-items-goals]]
+[[Put on your pyjamas and go to bed|chp1-discover-next-chapter-items-goals]]
 
 
-:: chp1-discover-next-chapter-items-goal [dream]
-''ADD E ART scene with forest, wishing well and balloon''
+:: chp1-discover-next-chapter-items-goals [dream]
+<img src="media/img/tree-with-owl.jpg" width="50%">
 
 The fog disappears as you look out the window of the treehouse you awoke in. Wow, this certainly feels like a dream! It
 must be, as you don't know anyone with a treehouse. A light breeze blows in the most beautiful smells, there must be a
