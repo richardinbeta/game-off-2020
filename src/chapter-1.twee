@@ -1,4 +1,6 @@
 :: Start 
+<img src="media/img/self-portrait-elie.jpg" width="55%">
+
 You hear ruffling by the window. A letter floats through the open window and settles on the coffee table.
 
 Well isn't that interesting. You approach slowly. The last time something came through the window, the room got covered
@@ -29,7 +31,7 @@ that can't be. Can cats really talk?
 
 
 :: chp1-ask-cat [dream]
-'' ADD E ART showing cat talking''
+<img src="media/img/cat-staring-contest.jpg" width="55%">
 
 Samson looks at you in disbelief with a tilted head. "I was trying to tell you not to close your eyes. Midnight Moon
 will steal your dreams. Dreamland needs you. Please open the letter!"
@@ -81,6 +83,8 @@ internet what a [[magic magnifying glass is|chp1-magic-magnifying-glass]].
 
 
 :: chp1-magic-magnifying-glass [dream] 
+<img src="media/img/magic-magnifing-glass.jpg" width="55%">
+
 A //magic magnifying glass// is a fairy tale item used by Alice in Wonderland. See page 237 of the book.
 
 You grab the book off of your shelf (mom has been reading it to you at night). Quickly you flip to the page. There is
@@ -123,7 +127,7 @@ Well, better write this down so you don't forget in your journal.
 
 
 :: chp1-describe-letter-envelop [dream]
-''ADD E ART showing outside of letter''
+<img src="media/img/old-fashioned-envelop.jpg" width="55%">
 
 Where is this even from? You've on;y ever seen white envelops and brown packages come in the mail.
 
@@ -134,6 +138,8 @@ You notice the two large stamps are not in English. Both of them contain an imag
 
 
 :: chp1-leaving-the-dream [dream]
+<img src="media/img/dream-scapes-2.jpg" width="55%">
+
 As you look at the stamps on the letter, the images start to move. You begin to see glimpses of a forest with a large
 balloon sailing above it. Next, the moon appears but it looks very different than how you remember it. The last image is
 water in a well. The stamps look like they did as you rub your eyes. What is happening? 
@@ -237,6 +243,7 @@ You grab paper from the art cupboard. There is so much you want to ask the cat n
 
 :: chp1-dreamland-back-story [awake]
 <img src="media/img/dreamland-overview.jpg" width="55%">
+<img src="media/img/creatures-of-dreamland.jpg" width="35%">
 
 "Dreamland has existed before, well before me and you. That much is certain" wrote the cat. "For those who have been
 there it is a magical place unlike anyother. Not many non-cats get the chance to go there."
@@ -299,6 +306,8 @@ open the cover and start to read the yellowish paper.
 //who has been in the service of Dreamland for a long time.//
 
 The letter continues..
+
+<img src="media/img/villian-midnightmoon.jpg" width="55%">
 
 //Dreamland looks after the dreams of everyone, helping dreamers avoid bad dreams. But that is now in danger, as I'm//
 //sure you know from Samson. Dreamland has chosen you to help return it from the dark magic that circles around it.//
